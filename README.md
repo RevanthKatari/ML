@@ -28,11 +28,19 @@ Here's a summary of the projects included in this repository:
 * **Objective:** Perform sentiment analysis on IMDB movie reviews.
 * **Techniques:** Text preprocessing, sentiment classification, NLP models.
 
-### 6. Netflix
-* **Objective:** Analyze Netflix viewing data to understand user preferences.
-* **Techniques:** Data visualization, clustering, recommendation systems.
+### 6. Metagenomic Disease Prediction
+- **Objective:** Use metagenomic data to identify potential diseases based on microbial patterns.
+- **Techniques:** Bioinformatics preprocessing, feature selection, machine learning classifiers.
 
-### 7. Weather
+### 7. Netflix
+- **Objective:** Analyze Netflix viewing data to understand user preferences.
+- **Techniques:** Data visualization, clustering, recommendation systems.
+
+### 8. Species Invasion
+- **Objective:** Predict the potential spread of invasive species using environmental data.
+- **Techniques:** Classification models, geospatial data analysis, ecological modeling.
+
+### 9. Weather
 * **Objective:** Predict weather conditions based on historical data.
 * **Techniques:** Time series analysis, regression models, data visualization.
 
